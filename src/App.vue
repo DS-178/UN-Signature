@@ -1,8 +1,6 @@
 <script setup>
 import Forms from "@/components/Forms.vue";
 import Signature from "@/components/Signature.vue";
-
-
 </script>
 
 <template>
